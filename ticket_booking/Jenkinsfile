@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_DIR = 'ticket_booking' // Make sure this folder contains manage.py and docker-compose.yml
+        PROJECT_DIR = 'ticket_booking' 
     }
 
     stages {
