@@ -18,7 +18,7 @@ This is a Django-based Ticket Booking Management System that allows users to reg
 
 ### 🧪 Local Setup (without Docker)
 ```bash
-git clone https://github.com/your-username/ticket-booking-system.git
+git clone https://github.com/ARES2525/show_ticket_booking_django
 cd ticket-booking-system
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
